@@ -88,5 +88,72 @@ Run the Program: Save the script as grade_tracker.py and execute it using Python
 Interact: Follow the prompts to input subject grades and view the results.
 This program provides a basic but functional approach to managing student grades, which can be extended with additional features or integrated into larger systems if needed.
 
+# output
+PS C:\Users\pooja\OneDrive\Desktop\Guna> & "C:/Program Files/Python312/python.exe" c:/Users/pooja/OneDrive/Desktop/Guna/grade.py
+
+Grade Management System
+1. Add Grade
+2. Display Summary
+3. Exit
+Enter your choice: 1
+Enter the subject: maths
+Enter the grade: 95
+Grade added for maths.
+
+Grade Management System
+1. Add Grade
+2. Display Summary
+3. Exit
+Enter your choice: 1
+Enter the subject: physics
+Enter the grade: 97
+Grade added for physics.
+
+Grade Management System
+1. Add Grade
+2. Display Summary
+3. Exit
+Enter your choice: 1
+Enter the subject: computer
+Enter the grade: 95
+Grade added for computer.
+
+Grade Management System
+1. Add Grade
+2. Display Summary
+3. Exit
+Enter your choice: english
+Invalid choice. Please select a valid option.
+
+Grade Management System
+1. Add Grade
+2. Display Summary
+3. Exit
+Enter your choice: 97
+Invalid choice. Please select a valid option.
+
+Grade Management System
+1. Add Grade
+2. Display Summary
+3. Exit
+Enter your choice: 2
+
+Grade Summary:
+maths: 95.0
+physics: 97.0
+computer: 95.0
+
+Average Grade: 95.67
+GPA: 4.78
+Letter Grade: A
+
+Grade Management System
+1. Add Grade
+2. Display Summary
+3. Exit
+Enter your choice: 3
+Exiting the program.
+PS C:\Users\pooja\OneDrive\Desktop\Guna> 
+
 
 
