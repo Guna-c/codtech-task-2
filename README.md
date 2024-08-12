@@ -1,4 +1,13 @@
 # codtech-task-2
+NAME:GUNASHEKHAR
+
+COMPANY:CODTECH IT SOLUTIONS
+
+DOMAIN:PYTHON
+
+DURATION:AUGUST TO SEPTEMBER
+
+MENTOR:MUZAMMIL AHMED
 Overview of the Student Grade Tracking Program
 Purpose:
 The program is designed to help users track and manage student grades by:
